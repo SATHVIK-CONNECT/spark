@@ -1,0 +1,15 @@
+streamlit 
+groq>=0.30.0
+streamlit-extras
+langchain>=1.0.3
+langchain-core>=1.0.3
+langchain-groq>=1.0.0
+langchain-huggingface>=1.0.1
+langchain-community>=0.4.1
+pypdf
+faiss-cpu
+Pillow==10.2.0
+sentence-transformers>=2.2.2
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.3
