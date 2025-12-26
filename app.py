@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 import tempfile
 
 # Set up Groq API Key
-os.environ['GROQ_API_KEY'] = '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'
+os.environ['GROQ_API_KEY'] = `${{ secrets.API_KEY }}`
 
 # Styling
 canvas = st.markdown("""
